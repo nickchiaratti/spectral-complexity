@@ -182,3 +182,9 @@ cython_debug/
 *.csv
 *.pptx
 *.pdf
+locations_config.yaml
+
+.agents/
+tests/
+
+SpecComplexTorch.py

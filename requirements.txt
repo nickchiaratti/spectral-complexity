@@ -1,0 +1,16 @@
+earthaccess
+h5py
+joblib
+matplotlib
+numpy
+pyproj
+pystac
+pystac-client
+rasterio
+requests
+scikit-learn
+SciencePlots
+scipy
+torch
+tqdm
+PyYAML
